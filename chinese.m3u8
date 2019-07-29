@@ -1,285 +1,287 @@
 #EXTM3U
-#EXTINF:tvg-logo=¡°https://www.seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg¡°,ÍâAXN HD
+#EXTINF:tvg-logo=â€œhttps://www.seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpgâ€œ,å¤–AXN HD
 http://45.126.83.51/uq2663/h/h09/01.m3u8
-#EXTINF:tvg-logo=¡°https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm_400x400.jpeg¡°,ÍâKIX HD
+#EXTINF:tvg-logo=â€œhttps://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm_400x400.jpegâ€œ,å¤–KIX HD
 http://45.126.83.51/uq2663/h/h07/01.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÍâKIX  HD
+#EXTINF:tvg-logo=â€œâ€œ,å¤–KIX  HD
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÍâPRIVE HD
+#EXTINF:tvg-logo=â€œâ€œ,å¤–PRIVE HD
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÍâFILX HD
+#EXTINF:tvg-logo=â€œâ€œ,å¤–FILX HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÍâRAI MOVIE
+#EXTINF:tvg-logo=â€œâ€œ,å¤–RAI MOVIE
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÍâSONY CHANNEL HD
+#EXTINF:tvg-logo=â€œâ€œ,å¤–SONY CHANNEL HD
 http://45.126.83.51/uq2663/h/h06/01.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÍâSony One HD
+#EXTINF:tvg-logo=â€œâ€œ,å¤–Sony One HD
 http://45.126.83.51/uq2663/h/h13/01.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÍâPICTURES HD
+#EXTINF:tvg-logo=â€œâ€œ,å¤–PICTURES HD
 http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÍâHBO
+#EXTINF:tvg-logo=â€œâ€œ,å¤–HBO
 http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÍâHBO 2
+#EXTINF:tvg-logo=â€œâ€œ,å¤–HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÍâHBO 3
+#EXTINF:tvg-logo=â€œâ€œ,å¤–HBO 3
 http://87.246.0.155:5286/tv_HBO_3
-#EXTINF:tvg-logo=¡°http://cdn2.tstatic.net/makassar/foto/bank/images/thrill1_20160505_105220¡°,ÍâTHRILL
+#EXTINF:tvg-logo=â€œhttp://cdn2.tstatic.net/makassar/foto/bank/images/thrill1_20160505_105220â€œ,å¤–THRILL
 http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
-http://cdn2.tstatic.net/makassar/foto/bank/images/thrill1_20160505_105220ÍâTHRILL2http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÍâCINEMAX
+http://cdn2.tstatic.net/makassar/foto/bank/images/thrill1_20160505_105220å¤–THRILL2http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:tvg-logo=â€œâ€œ,å¤–CINEMAX
 http://87.246.0.155:5286/tv_Cinemax_2
-#EXTINF:tvg-logo=¡°¡°,ÍâSONY MOVIE
+#EXTINF:tvg-logo=â€œâ€œ,å¤–SONY MOVIE
 http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
-#EXTINF:tvg-logo=¡°¡°,ÍâFOX MOVIES PREMIUM*
+#EXTINF:tvg-logo=â€œâ€œ,å¤–FOX MOVIES PREMIUM*
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÍâFOX MOVIES
+#EXTINF:tvg-logo=â€œâ€œ,å¤–FOX MOVIES
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÍâFOX MOVIES COMEDY
+#EXTINF:tvg-logo=â€œâ€œ,å¤–FOX MOVIES COMEDY
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÍâCINEMA WORD
+#EXTINF:tvg-logo=â€œâ€œ,å¤–CINEMA WORD
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÍâMY CINEMA
+#EXTINF:tvg-logo=â€œâ€œ,å¤–MY CINEMA
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:tvg-logo=¡°https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpg¡°,ÍâFASHION HD
+#EXTINF:tvg-logo=â€œhttps://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpgâ€œ,å¤–FASHION HD
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:¡°https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpg¡°,ÍâFASHION MIDNITE HD
+#EXTINF:â€œhttps://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpgâ€œ,å¤–FASHION MIDNITE HD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:tvg-logo=¡°https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpg¡°,ÍâFASHION PARIS HD
+#EXTINF:tvg-logo=â€œhttps://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpgâ€œ,å¤–FASHION PARIS HD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:tvg-logo=¡°https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpg¡°,ÍâFASHION MIDNITE
+#EXTINF:tvg-logo=â€œhttps://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpgâ€œ,å¤–FASHION MIDNITE
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-#EXTINF:tvg-logo=¡°https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jp¡°,ÍâFASHION PARIS
+#EXTINF:tvg-logo=â€œhttps://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpâ€œ,å¤–FASHION PARIS
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/media.m3u8
-#EXTINF:tvg-logo=¡°https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jp¡°,ÍâFASHION MEN
+#EXTINF:tvg-logo=â€œhttps://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpâ€œ,å¤–FASHION MEN
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
-#EXTINF:tvg-logo=¡°https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jp¡°,ÍâFASHION BRIDAL
+#EXTINF:tvg-logo=â€œhttps://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpâ€œ,å¤–FASHION BRIDAL
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_bridal_adaptive.smil/media.m3u8
-#EXTINF:tvg-logo=¡°https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jp¡°,ÍâFASHION FILMS
+#EXTINF:tvg-logo=â€œhttps://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpâ€œ,å¤–FASHION FILMS
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_fashion_films_adaptive.smil/media.m3u8
-#EXTINF:tvg-logo=¡°https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jp¡°,ÍâFASHION FITNESS
+#EXTINF:tvg-logo=â€œhttps://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpâ€œ,å¤–FASHION FITNESS
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_fashion_fitness_adaptive.smil/media.m3u8
-#EXTINF:tvg-logo=¡°https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jp¡°,ÍâFASHION MIDDLE 
+#EXTINF:tvg-logo=â€œhttps://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpâ€œ,å¤–FASHION MIDDLE 
 http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_middle_e_60b_42114_middle_east_94_hls.smil/media.m3u8
-#EXTINF:tvg-logo=¡°https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jp¡°,ÍâFASHION MODEL
+#EXTINF:tvg-logo=â€œhttps://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpâ€œ,å¤–FASHION MODEL
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_top_models_adaptive.smil/media.m3u8
-#EXTINF:tvg-logo=¡°https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jp¡°,ÍâFASHION PG13
+#EXTINF:tvg-logo=â€œhttps://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpâ€œ,å¤–FASHION PG13
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
-#EXTINF:tvg-logo=¡°https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jp¡°,ÍâFASHION PG16
+#EXTINF:tvg-logo=â€œhttps://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpâ€œ,å¤–FASHION PG16
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÍâCNN*
+#EXTINF:tvg-logo=â€œâ€œ,å¤–CNN*
 http://161.0.157.7/PLTV/88888888/224/3221226781/index.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÍâSKY NEWS HD
+#EXTINF:tvg-logo=â€œâ€œ,å¤–SKY NEWS HD
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:tvg-logo=¡°https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/200px-CBS_logo.svg.png¡° group-title=¡°×ÛºÏ¡°,ÍâCBS
+#EXTINF:tvg-logo=â€œhttps://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/200px-CBS_logo.svg.pngâ€œ group-title=â€œç»¼åˆâ€œ,å¤–CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
-#EXTINF:tvg-logo=¡°https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png¡°,ÍâCBN
+#EXTINF:tvg-logo=â€œhttps://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.pngâ€œ,å¤–CBN
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-#EXTINF:tvg-logo=¡°https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/200px-Animal_Planet_logo.svg.png¡°,ÍâAINMAL¶¯ÎïĞÇÇò
+#EXTINF:tvg-logo=â€œhttps://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/200px-Animal_Planet_logo.svg.pngâ€œ,å¤–AINMALåŠ¨ç‰©æ˜Ÿçƒ
 http://37.26.71.125:19202
-#EXTINF:tvg-logo=¡°https://upload.wikimedia.org/wikipedia/zh/f/fe/DiscoveryChannel.png¡°,ÍâDISCOVERYÌ½Ë÷
+#EXTINF:tvg-logo=â€œhttps://upload.wikimedia.org/wikipedia/zh/f/fe/DiscoveryChannel.pngâ€œ,å¤–DISCOVERYæ¢ç´¢
 http://37.26.71.125:19201
-#EXTINF:tvg-logo=¡°¡°,ÍâCGTN DOCUMENTARY
+#EXTINF:tvg-logo=â€œâ€œ,å¤–CGTN DOCUMENTARY
 http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
-#EXTINF:tvg-logo=¡°https://images.useetv.com/logo_davinci_big1.png?v=2.0.0.11¡°,ÍâÎÄDAVINCI
+#EXTINF:tvg-logo=â€œhttps://images.useetv.com/logo_davinci_big1.png?v=2.0.0.11â€œ,å¤–æ–‡DAVINCI
 http://45.126.83.51/uq2663/h/h01/index2.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÍâZEE CAFE
+#EXTINF:tvg-logo=â€œâ€œ,å¤–ZEE CAFE
 http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
-#EXTINF:tvg-logo=¡°https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/200px-MTV_Logo_2010.svg.png¡°,ÍâMTVÒôÀÖÌ¨ HD
+#EXTINF:tvg-logo=â€œhttps://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/200px-MTV_Logo_2010.svg.pngâ€œ,å¤–MTVéŸ³ä¹å° HD
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÍâMTVÒôÀÖÌ¨1
+#EXTINF:tvg-logo=â€œâ€œ,å¤–MTVéŸ³ä¹å°1
 http://92.249.129.152/stream/1music.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÍâMTVÒôÀÖÌ¨2
+#EXTINF:tvg-logo=â€œâ€œ,å¤–MTVéŸ³ä¹å°2
 http://wow01.105.net:1935/live/rmc1/livestream.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÍâMTV HDµÂ¹ú
+#EXTINF:tvg-logo=â€œâ€œ,å¤–MTV HDå¾·å›½
 http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÍâMTV HD·¨¹ú
+#EXTINF:tvg-logo=â€œâ€œ,å¤–MTV HDæ³•å›½
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÌåÎ³À´ÌåÓıHD
+#EXTINF:tvg-logo=â€œâ€œ,ä½“çº¬æ¥ä½“è‚²HD
 http://59.120.242.104:9000/live/live12.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÌåSOCCER TV HD ×ãÇò
+#EXTINF:tvg-logo=â€œâ€œ,ä½“SOCCER TV HD è¶³çƒ
 http://45.126.83.51/uq2663/h/h20/index2.m3u8
-#EXTINF:tvg-logo=¡°http://singteltv.com.sg/_channels/pic_ch585.jpg¡°,¸ÛÌìÓ³µçÓ°ÆµµÀ
+#EXTINF:tvg-logo=â€œhttp://singteltv.com.sg/_channels/pic_ch585.jpgâ€œ,æ¸¯å¤©æ˜ ç”µå½±é¢‘é“
 http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
-#EXTINF:tvg-logo=¡°http://singteltv.com.sg/_channels/pic_ch585.jpg¡°,¸ÛÌìÓ³µçÓ°ÆµµÀ2
+#EXTINF:tvg-logo=â€œhttp://singteltv.com.sg/_channels/pic_ch585.jpgâ€œ,æ¸¯å¤©æ˜ ç”µå½±é¢‘é“2
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:tvg-logo=¡°¡°,¸ÛÆ¬µçÓ°ÂÖ²¥1
+#EXTINF:tvg-logo=â€œâ€œ,æ¸¯ç‰‡ç”µå½±è½®æ’­1
 http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
-#EXTINF:tvg-logo=¡°¡°,¸ÛÆ¬µçÓ°ÂÖ²¥2
+#EXTINF:tvg-logo=â€œâ€œ,æ¸¯ç‰‡ç”µå½±è½®æ’­2
 http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:tvg-logo=¡°¡°,¸ÛÆ¬µçÓ°ÂÖ²¥3
+#EXTINF:tvg-logo=â€œâ€œ,æ¸¯ç‰‡ç”µå½±è½®æ’­3
 http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-#EXTINF:tvg-logo=¡°¡°,¸ÛºÃÀ³µçÓ°ÂÖ²¥ 1
+#EXTINF:tvg-logo=â€œâ€œ,æ¸¯å¥½è±ç”µå½±è½®æ’­ 1
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:tvg-logo=¡°¡°,¸ÛºÃÀ³µçÓ°ÂÖ²¥ 2
+#EXTINF:tvg-logo=â€œâ€œ,æ¸¯å¥½è±ç”µå½±è½®æ’­ 2
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:tvg-logo=¡°¡°,¸ÛºÃÀ³µçÓ°ÂÖ²¥ 3
+#EXTINF:tvg-logo=â€œâ€œ,æ¸¯å¥½è±ç”µå½±è½®æ’­ 3
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:tvg-logo=¡°¡°,¸ÛºÃÀ³ÎëÁùÈËĞĞ/ÀÏÓÑ¼Ç
+#EXTINF:tvg-logo=â€œâ€œ,æ¸¯å¥½è±åå…­äººè¡Œ/è€å‹è®°
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:tvg-logo=¡°https://upload.wikimedia.org/wikipedia/zh/0/0d/TVB_logo.png¡°,¸ÛTVBôä´äÌ¨
+#EXTINF:tvg-logo=â€œhttps://upload.wikimedia.org/wikipedia/zh/0/0d/TVB_logo.pngâ€œ,æ¸¯TVBç¿¡ç¿ å°
 http://123.207.42.38/tvb.php?type=jade
-#EXTINF:tvg-logo=¡°https://upload.wikimedia.org/wikipedia/zh/0/0d/TVB_logo.png¡°,¸ÛTVBØ”½›HD
+#EXTINF:tvg-logo=â€œhttps://upload.wikimedia.org/wikipedia/zh/0/0d/TVB_logo.pngâ€œ,æ¸¯TVBè²¡ç¶“HD
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
-#EXTINF:tvg-logo=¡°¡°,¸Û·ï»ËÖĞÎÄ
+#EXTINF:tvg-logo=â€œâ€œ,æ¸¯å‡¤å‡°ä¸­æ–‡
 http://117.169.72.6:8080/ysten-businessmobile/live/fhchinese/1.m3u8
-#EXTINF:tvg-logo=¡°¡°,¸Û·ï»Ë×ÊÑ¶
+#EXTINF:tvg-logo=â€œâ€œ,æ¸¯å‡¤å‡°èµ„è®¯
 http://45.126.83.51/qwr9ew/s/s21/index2.m3u8
-#EXTINF:tvg-logo=¡°¡°,¸Û·ï»ËÏã¸Û Âı
+#EXTINF:tvg-logo=â€œâ€œ,æ¸¯å‡¤å‡°é¦™æ¸¯ æ…¢
 http://live.italkdd.com/cds160/hls/channel016/channel016_2000.m3u8
-#EXTINF:tvg-logo=¡°¡°,¸Û·ï»ËÃÀÖŞ Âı
+#EXTINF:tvg-logo=â€œâ€œ,æ¸¯å‡¤å‡°ç¾æ´² æ…¢
 http://live.italkdd.com/cds160/hls/channel001/channel001_2000.m3u8
-#EXTINF:tvg-logo=¡°¡°,Ì¨ĞÇÎÀµçÓ°Ì¨HD
+#EXTINF:tvg-logo=â€œâ€œ,å°æ˜Ÿå«ç”µå½±å°HD
 http://59.120.242.104:9000/live/live10.m3u8
-#EXTINF:tvg-logo=¡°¡°,Ì¨ÃÀÑÇµçÓ°Ì¨HD
+#EXTINF:tvg-logo=â€œâ€œ,å°ç¾äºšç”µå½±å°HD
 http://59.120.242.104:9000/live/live2.m3u8
-#EXTINF:tvg-logo=¡°¡°,Ì¨ÎÀÊÓÎ÷Æ¬Ì¨HD
+#EXTINF:tvg-logo=â€œâ€œ,å°å«è§†è¥¿ç‰‡å°HD
 http://59.120.242.104:9000/live/live1.m3u8
-#EXTINF:tvg-logo=¡°¡°,Ì¨ÃñÊÓHD
+#EXTINF:tvg-logo=â€œâ€œ,å°æ°‘è§†HD
 http://59.120.242.104:9000/live/live14.m3u8
-#EXTINF:tvg-logo=¡°¡°,Ì¨ÃñÊÓĞÂÎÅHD
+#EXTINF:tvg-logo=â€œâ€œ,å°æ°‘è§†æ–°é—»HD
 http://210.61.56.23/hls/ftvtv/index.m3u8
-#EXTINF:tvg-logo=¡°¡°,Ì¨ÖĞÌìĞÂÎÅHD
+#EXTINF:tvg-logo=â€œâ€œ,å°ä¸­å¤©æ–°é—»HD
 http://59.120.242.104:9000/live/live4.m3u8
-#EXTINF:tvg-logo=¡°¡°,Ì¨ÈıÁ¢ĞÂÎÅHD
+#EXTINF:tvg-logo=â€œâ€œ,å°ä¸‰ç«‹æ–°é—»HD
 http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
-#EXTINF:tvg-logo=¡°¡°,Ì¨Äê´úĞÂÎÅHD
+#EXTINF:tvg-logo=â€œâ€œ,å°å¹´ä»£æ–°é—»HD
 http://59.120.242.104:9000/live/live3.m3u8
-#EXTINF:tvg-logo=¡°¡°,Ì¨Ò¼ĞÂÎÅHD
+#EXTINF:tvg-logo=â€œâ€œ,å°å£¹æ–°é—»HD
 http://59.120.242.104:9000/live/live8.m3u8
-#EXTINF:tvg-logo=¡°¡°,Ì¨TVBSĞÂÎÅÌ¨
+#EXTINF:tvg-logo=â€œâ€œ,å°TVBSæ–°é—»å°
 http://60.199.188.61/HLS/WG_TVBS-N/02.m3u8
-#EXTINF:tvg-logo=¡°¡°,Ì¨»ªÊÓ×ÊÑ¶Ì¨
+#EXTINF:tvg-logo=â€œâ€œ,å°åè§†èµ„è®¯å°
 http://live.italkdd.com/cds160/hls/channel005/channel005.m3u8
-#EXTINF:tvg-logo=¡°¡°,Ì¨¶«É­ÃÀÖŞ Âı
+#EXTINF:tvg-logo=â€œâ€œ,å°ä¸œæ£®ç¾æ´² æ…¢
 http://live.italkdd.com/cds160/hls/channel020/channel020_2000.m3u8
-#EXTINF:tvg-logo=¡°¡°,Ì¨Ì¨ÊÓĞÂÎÅ
+#EXTINF:tvg-logo=â€œâ€œ,å°å°è§†æ–°é—»
 http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8
-#EXTINF:tvg-logo=¡°¡°,Ì¨ÑÇÖŞÂÃÓÎ
+#EXTINF:tvg-logo=â€œâ€œ,å°äºšæ´²æ—…æ¸¸
 http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8
-#EXTINF:tvg-logo=¡°¡°,Ì¨ÃñÊÓĞÂÎÅ2
+#EXTINF:tvg-logo=â€œâ€œ,å°æ°‘è§†æ–°é—»2
 http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8
-#EXTINF:tvg-logo=¡°¡°,Ì¨MIAO MI
+#EXTINF:tvg-logo=â€œâ€œ,å°MIAO MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-#EXTINF:tvg-logo=¡°¡°,Ì¨Î³À´ÈÕ±¾HD
+#EXTINF:tvg-logo=â€œâ€œ,å°çº¬æ¥æ—¥æœ¬HD
 http://59.120.242.104:9000/live/live11.m3u8
-#EXTINF:tvg-logo=¡°¡°,Ì¨-GoodTVHD2
+#EXTINF:tvg-logo=â€œâ€œ,å°-GoodTVHD2
 http://live.streamingfast.net/osmflivech3.m3u8
-#EXTINF:tvg-logo=¡°¡°,Ì¨-GoodTVHD
+#EXTINF:tvg-logo=â€œâ€œ,å°-GoodTVHD
 http://live.streamingfast.net/osmflivech8.m3u8
-#EXTINF:tvg-logo=¡°¡°,Ì¨-GoodTV1
+#EXTINF:tvg-logo=â€œâ€œ,å°-GoodTV1
 http://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:tvg-logo=¡°¡°,Ì¨-GoodTV2
+#EXTINF:tvg-logo=â€œâ€œ,å°-GoodTV2
 http://live.streamingfast.net/osmflivech2.m3u8
-#EXTINF:tvg-logo=¡°¡°,Ì¨ ÖÜĞÇ³ÚµçÓ°Ì¨HD
+#EXTINF:tvg-logo=â€œâ€œ,å° å‘¨æ˜Ÿå¼›ç”µå½±å°HD
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
-#EXTINF:tvg-logo=¡°¡°,Ì¨ HBO
+#EXTINF:tvg-logo=â€œâ€œ,å° HBO
 http://218.202.220.2:5000/nn_live.m3u8?id=HBO
-#EXTINF:tvg-logo=¡°¡°,Ì¨ ¹ú¼ÒµØÀí
+#EXTINF:tvg-logo=â€œâ€œ,å° å›½å®¶åœ°ç†
 rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
-#EXTINF:tvg-logo=¡°¡°,Ì¨ DISCOVERYÌ½Ë÷ Âı
+#EXTINF:tvg-logo=â€œâ€œ,å° DISCOVERYæ¢ç´¢ æ…¢
 rtmp://58.200.131.2:1935/livetv/discovery
-#EXTINF:tvg-logo=¡°https://special.animax-asia.com/oo-kun/displays/images/video_wascot.gif¡°,ÈÕ±¾„Ó®‹ANIMAX HD 1
+#EXTINF:tvg-logo=â€œhttps://special.animax-asia.com/oo-kun/displays/images/video_wascot.gifâ€œ,æ—¥æœ¬å‹•ç•«ANIMAX HD 1
 http://45.126.83.51/dr9445/h/h18/01.m3u8
-#EXTINF:tvg-logo=¡°https://special.animax-asia.com/oo-kun/displays/images/video_wascot.gif¡°,ÈÕ±¾„Ó®‹ANIMAX HD 2
+#EXTINF:tvg-logo=â€œhttps://special.animax-asia.com/oo-kun/displays/images/video_wascot.gifâ€œ,æ—¥æœ¬å‹•ç•«ANIMAX HD 2
 http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29667?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
-#EXTINF:tvg-logo=¡°http://images2.useetv.com/logo_aniplus_big1.png¡°,ÈÕ±¾„Ó®‹ANIPLUS HD1
+#EXTINF:tvg-logo=â€œhttp://images2.useetv.com/logo_aniplus_big1.pngâ€œ,æ—¥æœ¬å‹•ç•«ANIPLUS HD1
 http://45.126.83.51/dr9445/h/h02/01.m3u8
-#EXTINF:tvg-logo=¡°http://images2.useetv.com/logo_aniplus_big1.png¡°,ÈÕ±¾„Ó®‹ANIPLUS HD2
+#EXTINF:tvg-logo=â€œhttp://images2.useetv.com/logo_aniplus_big1.pngâ€œ,æ—¥æœ¬å‹•ç•«ANIPLUS HD2
 http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29669?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
-#EXTINF:tvg-logo=¡°¡°,ÈÕ±¾WOWOW MOVIES
+#EXTINF:tvg-logo=â€œâ€œ,æ—¥æœ¬WOWOW MOVIES
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
-#EXTINF:tvg-logo=¡°¡°,ÈÕ±¾NTV News24
+#EXTINF:tvg-logo=â€œâ€œ,æ—¥æœ¬NTV News24
 http://www.news24.jp/livestream/index.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÈÕ±¾Shop Channel HD
+#EXTINF:tvg-logo=â€œâ€œ,æ—¥æœ¬Shop Channel HD
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÈÕ±¾Japanet Channel DX
+#EXTINF:tvg-logo=â€œâ€œ,æ—¥æœ¬Japanet Channel DX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
-#EXTINF:tvg-logo=¡°¡°,º«Chosun HD
+#EXTINF:tvg-logo=â€œâ€œ,éŸ©Chosun HD
 http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
-#EXTINF:tvg-logo=¡°¡°,º«Sony One HD2
+#EXTINF:tvg-logo=â€œâ€œ,éŸ©Sony One HD2
 http://210.210.155.35/uq2663/h/h13/index.m3u8
-#EXTINF:tvg-logo=¡°¡°,º«Sony One HD3
+#EXTINF:tvg-logo=â€œâ€œ,éŸ©Sony One HD3
 http://195.181.170.48:25461/nurcholism22@gmail.com/0831zssVb0/29596?token=GkQJUBUMGwpAUwMCUQkHV11SVAAIAwIGAQxbAQJTVwRQUQBSA1AKUlUQTkQVREIABV08XlRDCgYLD1dSHRVBRQQUPlgCRgMSWgBQUVIIEklGRApaVUMKBQcNUVoEAQEOUUpDQQ8AGwoMRw4KShJVHRBVEVlRDW9QV08LAFQVDlgUCg0dRAtXbwZXDwcIVBJfRgFBGxIIQ0QQA0AgWV5aV0ErDlMPCFwQIV0PCxNeWQYFRApYXhIQd11LEgxDVkBfDghDHUQGUEQQUxYDRApeEAhcTxVTDkVaRksbQQsVd3hDSkNUHhBcXhFbDQhEChIRFxJPFVkSb0ZXShYRVFZZUxNEWxNWRhUSD1MaOQVfXgsBUxdeXw9DFggbU0EdFVlZDw8VXhQ7SVkGEFgIE1xcGA==
-#EXTINF:tvg-logo=¡°¡°,º«K PLUS HD
+#EXTINF:tvg-logo=â€œâ€œ,éŸ©K PLUS HD
 http://45.126.83.51/uq2663/h/h08/01.m3u8
-#EXTINF:tvg-logo=¡°¡°,º«Arirang South Korea HD
+#EXTINF:tvg-logo=â€œâ€œ,éŸ©Arirang South Korea HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:tvg-logo=¡°¡°,º«KBS WORLD
+#EXTINF:tvg-logo=â€œâ€œ,éŸ©KBS WORLD
 http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
-#EXTINF:tvg-logo=¡°¡°,º«ktv
+#EXTINF:tvg-logo=â€œâ€œ,éŸ©ktv
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
-#EXTINF:tvg-logo=¡°¡°,°ÄÑÇÎÀÊÓ
+#EXTINF:tvg-logo=â€œâ€œ,æ¾³äºšå«è§†
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
-#EXTINF:tvg-logo=¡°¡°,°ÄÃÅÎÀÊÓ
+#EXTINF:tvg-logo=â€œâ€œ,æ¾³é—¨å«è§†
 http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
-#EXTINF:tvg-logo=¡°¡°,°ÄÃÅ×ÊÑ¶
+#EXTINF:tvg-logo=â€œâ€œ,æ¾³é—¨èµ„è®¯
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÄÚaºşÄÏÎÀÊÓHD
+#EXTINF:tvg-logo=â€œâ€œ,å†…aæ¹–å—å«è§†HD
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÄÚa–|·½ÎÀÊÓHD
+#EXTINF:tvg-logo=â€œâ€œ,å†…aæ±æ–¹å«è§†HD
 http://ivi.bupt.edu.cn/hls/dfhd.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÄÚa½­ÌKÎÀÊÓHD
+#EXTINF:tvg-logo=â€œâ€œ,å†…aæ±Ÿè˜‡å«è§†HD
 http://ivi.bupt.edu.cn/hls/jshd.m3u8
-#EXTINF:tvg-logo=¡°https://upload.wikimedia.org/wikipedia/zh/6/66/ZTV_logo.png¡°,ÄÚaÕã½­ÎÀÊÓHD
+#EXTINF:tvg-logo=â€œhttps://upload.wikimedia.org/wikipedia/zh/6/66/ZTV_logo.pngâ€œ,å†…aæµ™æ±Ÿå«è§†HD
 http://ivi.bupt.edu.cn/hls/zjhd.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÄÚ±±¾©ÎÀÊÓHD
+#EXTINF:tvg-logo=â€œâ€œ,å†…åŒ—äº¬å«è§†HD
 http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÄÚ°²»ÕÎÀÊÓHD
+#EXTINF:tvg-logo=â€œâ€œ,å†…å®‰å¾½å«è§†HD
 http://ivi.bupt.edu.cn/hls/ahhd.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÄÚºÚÁú½­ÎÀÊÓHD
+#EXTINF:tvg-logo=â€œâ€œ,å†…é»‘é¾™æ±Ÿå«è§†HD
 http://ivi.bupt.edu.cn/hls/hljhd.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÄÚÉîÛÚÎÀÊÓHD
+#EXTINF:tvg-logo=â€œâ€œ,å†…æ·±åœ³å«è§†HD
 http://ivi.bupt.edu.cn/hls/szhd.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÄÚ¹ã¶«ÎÀÊÓHD
+#EXTINF:tvg-logo=â€œâ€œ,å†…å¹¿ä¸œå«è§†HD
 http://ivi.bupt.edu.cn/hls/gdhd.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÄÚÌì½òÎÀÊÓHD
+#EXTINF:tvg-logo=â€œâ€œ,å†…å¤©æ´¥å«è§†HD
 http://ivi.bupt.edu.cn/hls/tjhd.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÄÚºş±±ÎÀÊÓHD
+#EXTINF:tvg-logo=â€œâ€œ,å†…æ¹–åŒ—å«è§†HD
 http://ivi.bupt.edu.cn/hls/hbhd.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÄÚ½­Î÷ÎÀÊÓHD
+#EXTINF:tvg-logo=â€œâ€œ,å†…æ±Ÿè¥¿å«è§†HD
 http://103.242.13.90:5555/udp/239.4.1.29:10000
-#EXTINF:tvg-logo=¡°¡°,ÄÚºÓÄÏÎÀÊÓHD
+#EXTINF:tvg-logo=â€œâ€œ,å†…æ²³å—å«è§†HD
 http://103.242.13.90:5555/udp/239.4.1.28:10000
-#EXTINF:tvg-logo=¡°¡°,ÄÚCCTV1
+#EXTINF:tvg-logo=â€œâ€œ,å†…CCTV1
 http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-1
-#EXTINF:tvg-logo=¡°¡°,ÄÚCCTV1 ¿ì
+#EXTINF:tvg-logo=â€œâ€œ,å†…CCTV1 å¿«
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÄÚCCTV2
+#EXTINF:tvg-logo=â€œâ€œ,å†…CCTV2
 http://183.207.248.71:80/cntv/live1/CCTV-2/cctv-2
-#EXTINF:tvg-logo=¡°¡°,ÄÚCCTV3
+#EXTINF:tvg-logo=â€œâ€œ,å†…CCTV3
 http://183.207.248.71:80/cntv/live1/CCTV-3/cctv-3
-#EXTINF:tvg-logo=¡°¡°,ÄÚCCTV3
+#EXTINF:tvg-logo=â€œâ€œ,å†…CCTV3
 http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÄÚCCTV4
+#EXTINF:tvg-logo=â€œâ€œ,å†…CCTV4
 http://183.207.248.71:80/cntv/live1/CCTV-4/cctv-4
-#EXTINF:tvg-logo=¡°¡°,ÄÚCCTV5
+#EXTINF:tvg-logo=â€œâ€œ,å†…CCTV5
 http://183.207.248.71:80/cntv/live1/CCTV-5/cctv-5
-#EXTINF:tvg-logo=¡°¡°,ÄÚCCTV5+
+#EXTINF:tvg-logo=â€œâ€œ,å†…CCTV5+
 http://183.207.248.71:80/cntv/live1/CCTV5+/hdcctv05plus
-#EXTINF:tvg-logo=¡°¡°,ÄÚCCTV5+ ¿ì
+#EXTINF:tvg-logo=â€œâ€œ,å†…CCTV5+ å¿«
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÄÚCCTV6
+#EXTINF:tvg-logo=â€œâ€œ,å†…CCTV6
 http://183.207.248.71:80/cntv/live1/CCTV-6/cctv-6
-#EXTINF:tvg-logo=¡°¡°,ÄÚCCTV6 ¿ì
+#EXTINF:tvg-logo=â€œâ€œ,å†…CCTV6 å¿«
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÄÚCCTV7
+#EXTINF:tvg-logo=â€œâ€œ,å†…CCTV7
 http://183.207.248.71:80/cntv/live1/CCTV-7/cctv-7
-#EXTINF:tvg-logo=¡°¡°,ÄÚCCTV8
+#EXTINF:tvg-logo=â€œâ€œ,å†…CCTV8
 http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:tvg-logo=¡°¡°,ÄÚCCTV9
+#EXTINF:tvg-logo=â€œâ€œ,å†…CCTV9
 http://183.207.248.71:80/cntv/live1/CCTV-9/cctv-news
-#EXTINF:tvg-logo=¡°¡°,ÄÚCCTV10
+#EXTINF:tvg-logo=â€œâ€œ,å†…CCTV10
 http://183.207.248.71:80/cntv/live1/CCTV-10/cctv-10
-#EXTINF:tvg-logo=¡°¡°,ÄÚCCTV11
+#EXTINF:tvg-logo=â€œâ€œ,å†…CCTV11
 http://183.207.248.71:80/cntv/live1/CCTV-11/cctv-11
-#EXTINF:tvg-logo=¡°¡°,ÄÚCCTV12
+#EXTINF:tvg-logo=â€œâ€œ,å†…CCTV12
 http://183.207.248.71:80/cntv/live1/CCTV-12/cctv-12
  
-#EXTINF:tvg-logo=¡°¡°,ÄÚCCTV13
+#EXTINF:tvg-logo=â€œâ€œ,å†…CCTV13
 http://183.207.248.71:80/cntv/live1/CCTV-13/cctv-13
-#EXTINF:tvg-logo=¡°¡°,ÄÚCCTV14
+#EXTINF:tvg-logo=â€œâ€œ,å†…CCTV14
 http://183.207.248.71:80/cntv/live1/CCTV-14/cctv-14
-#EXTINF:tvg-logo=¡°¡°,ÄÚCCTV15
+#EXTINF:tvg-logo=â€œâ€œ,å†…CCTV15
 http://183.207.248.71:80/cntv/live1/CCTV-15/cctv-15
-#EXTINF:tvg-logo=¡°¡°,ÄÚCHC¸ßÇå HD
+#EXTINF:tvg-logo=â€œâ€œ,å†…CHCé«˜æ¸… HD
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
+
+
