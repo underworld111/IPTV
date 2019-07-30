@@ -1,0 +1,357 @@
+#EXTM3U
+#EXTINF:-1,Das Erste FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/22238
+#EXTINF:-1,Das Erste HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/7011
+#EXTINF:-1,ZDF FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/22237
+#EXTINF:-1,ZDF HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1122
+#EXTINF:-1,ZDF Info HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/6998
+#EXTINF:-1,ZDF Neo HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/6997
+#EXTINF:-1,WDR HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1123
+#EXTINF:-1,SAT 1 FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20666
+#EXTINF:-1,SAT 1 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1125
+#EXTINF:-1,SAT 1 Gold HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/6990
+#EXTINF:-1,VOX FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20674
+#EXTINF:-1,VOX HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1124
+#EXTINF:-1,RTL 1 FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20665
+#EXTINF:-1,RTL 1 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1126
+#EXTINF:-1,RTL 2 FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20664
+#EXTINF:-1,RTL 2 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1127
+#EXTINF:-1,RTL plus (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/7003
+#EXTINF:-1,RTL Nitro HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/6987
+#EXTINF:-1,RTL Living HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/6988
+#EXTINF:-1,RTL Crime FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20687
+#EXTINF:-1,RTL Crime HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/2627
+#EXTINF:-1,RTL Passion FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/22712
+#EXTINF:-1,RTL Passion HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/2626
+#EXTINF:-1,SUPER RTL FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20671
+#EXTINF:-1,Super RTL HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/7002
+#EXTINF:-1,Prosieben FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20663
+#EXTINF:-1,Prosieben HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1128
+#EXTINF:-1,Prosieben Fun FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/22714
+#EXTINF:-1,Prosieben Fun HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/6986
+#EXTINF:-1,Kabel Eins FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/22708
+#EXTINF:-1,Kabel Eins HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1132
+#EXTINF:-1,FOX FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20659
+#EXTINF:-1,FOX HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1133
+#EXTINF:-1,Arte HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1134
+#EXTINF:-1,ORF 1 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1129
+#EXTINF:-1,ORF 2 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1130
+#EXTINF:-1,SRF 1 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/6996
+#EXTINF:-1,3 Sat HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/6992
+#EXTINF:-1,Phoenix HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/7000
+#EXTINF:-1,N24 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/4801
+#EXTINF:-1,N24 Doku HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/22600
+#EXTINF:-1,AXN HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/2625
+#EXTINF:-1,SIXX FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20667
+#EXTINF:-1,SIXX HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1234
+#EXTINF:-1,SYFY FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20672
+#EXTINF:-1,SYFY HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/3696
+#EXTINF:-1,Deluxe Music FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20675
+#EXTINF:-1,Deluxe Music HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/7016
+#EXTINF:-1,Kabel Eins Doku HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/6984
+#EXTINF:-1,NDR HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1131
+#EXTINF:-1,Euronews HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1402
+#EXTINF:-1,Servus HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/7012
+#EXTINF:-1,N-TV FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20660
+#EXTINF:-1,N-TV HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/4802
+#EXTINF:-1,Planet A&E HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1239
+#EXTINF:-1,Tele 5 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/7013
+#EXTINF:-1,DMAX FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/22715
+#EXTINF:-1,DMAX HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/6991
+#EXTINF:-1,SONY TV HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20850
+#EXTINF:-1,Universal TV HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20851
+#EXTINF:-1,Comedy Central HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20852
+#EXTINF:-1,Welt Der Wunter HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20854
+#EXTINF:-1,Heimatkanal HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/7001
+#EXTINF:-1,MDR S-Anhalt FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20679
+#EXTINF:-1,RBB Berlin HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20681
+#EXTINF:-1,E! entertainement HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/22323
+#EXTINF:-1,E! Entertainment FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20677
+#EXTINF:-1,Romance TV (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/22750
+#EXTINF:-1,MTV FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20680
+#EXTINF:-1,KIKA HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/7004
+#EXTINF:-1,Boomerang HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/6994
+#EXTINF:-1,Nickelodeon HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/7006
+#EXTINF:-1,Disney XD HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1237
+#EXTINF:-1,Disney Channel FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/22718
+#EXTINF:-1,Disney Channel HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/7005
+#EXTINF:-1,Disney Junior HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1238
+#EXTINF:-1,Disney Cinemagic FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20658
+#EXTINF:-1,Disney Cinemagic HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1236
+#EXTINF:-1,Cartoon Network HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/7007
+#EXTINF:-1,Spiegel Geschichte HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/22727
+#EXTINF:-1,Spiegel Wissen HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/6999
+#EXTINF:-1,Spiegel Wissen FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/22728
+#EXTINF:-1,TLC HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/8927
+#EXTINF:-1,Planet HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/7010
+#EXTINF:-1,Planet A&E FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/22726
+#EXTINF:-1,DISCOVERY FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20676
+#EXTINF:-1,HISTORY FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20678
+#EXTINF:-1,History HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1232
+#EXTINF:-1,Animal Planet HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/7009
+#EXTINF:-1,Crime Investigation HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/37478
+#EXTINF:-1,NAT GEO WILD FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20661
+#EXTINF:-1,Nat Geo Wild HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1119
+#EXTINF:-1,NAT GEOGRAPHIC FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20662
+#EXTINF:-1,Nat Geographic HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/7008
+#EXTINF:-1,Discovery HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1121
+#EXTINF:-1,*****DEUTSCHE KINO*****
+http://iptv.iptivihd.com:8000/Sabin/Sabin/8925
+#EXTINF:-1,Prosieben Maxx HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/6985
+#EXTINF:-1,Kabel Eins Classica HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/8935
+#EXTINF:-1,Stingray Classica HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/35582
+#EXTINF:-1,Kinowelt HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/8929
+#EXTINF:-1,ZEE ONE FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20686
+#EXTINF:-1,Zee One HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/8928
+#EXTINF:-1,TNT Film HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1231
+#EXTINF:-1,TNT SERIES FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20673
+#EXTINF:-1,TNT Series HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1230
+#EXTINF:-1,TNT COMEDY FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20685
+#EXTINF:-1,TNT Comedy HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/8930
+#EXTINF:-1,13th Street FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20657
+#EXTINF:-1,13th Street HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1135
+#EXTINF:-1,Universal FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20694
+#EXTINF:-1,Unniversal HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/6993
+#EXTINF:-1, 1 FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20688
+#EXTINF:-1, 1 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/8932
+#EXTINF:-1, Cinema FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20669
+#EXTINF:-1, Cinema Hits FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20670
+#EXTINF:-1, Cinema SD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/35707
+#EXTINF:-1, Cinema HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/3713
+#EXTINF:-1, CINEMA + 1 FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20690
+#EXTINF:-1, Cinema +1 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1227
+#EXTINF:-1, Cinema +24 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/3712
+#EXTINF:-1, Cinema +24 SD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/35709
+#EXTINF:-1, CINEMA 24 FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20691
+#EXTINF:-1, Krimi SD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/35714
+#EXTINF:-1, Krimi HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/8931
+#EXTINF:-1, Cinema Action HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1229
+#EXTINF:-1, Cinema Action FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20668
+#EXTINF:-1, Comedy HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/8936
+#EXTINF:-1, Cinema Atlantic HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1228
+#EXTINF:-1, Cinema Atlantic FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20682
+#EXTINF:-1, Cinema Emotion SD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/35710
+#EXTINF:-1, Emotion HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/3710
+#EXTINF:-1, Nostalgie HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/8934
+#EXTINF:-1, Cinema Hits HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/8933
+#EXTINF:-1, Cinema Family HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/35711
+#EXTINF:-1, Cinema Trierch HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/8937
+#EXTINF:-1, CINEMA FAMILY FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20692
+#EXTINF:-1, Select 1 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/3701
+#EXTINF:-1, Select 2 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/3702
+#EXTINF:-1, Select 3 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/3703
+#EXTINF:-1, Select 4 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/3704
+#EXTINF:-1, Select 5 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/3705
+#EXTINF:-1, Select 6 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/3706
+#EXTINF:-1, Select 7 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/4763
+#EXTINF:-1, Select 8 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/4764
+#EXTINF:-1, Select 9 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/4765
+#EXTINF:-1, Select 10 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/4766
+#EXTINF:-1, Cinema 1 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/35567
+#EXTINF:-1, Cinema 2 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/35568
+#EXTINF:-1, Cinema 3 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/35569
+#EXTINF:-1, Cinema 4 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/35570
+#EXTINF:-1,Elite Cinema 1 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/21784
+#EXTINF:-1,Elite Cinema 2 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/21783
+#EXTINF:-1,Elite Cinema 3 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/21782
+#EXTINF:-1,Elite Cinema 4 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/21781
+#EXTINF:-1,Film Club 1 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/35364
+#EXTINF:-1,Film Club 2 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/35365
+#EXTINF:-1,Film Club 3 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/35366
+#EXTINF:-1,Popcorn Select 6 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/21786
+#EXTINF:-1,*****DEUTSCHE SPORT*****
+http://iptv.iptivihd.com:8000/Sabin/Sabin/8926
+#EXTINF:-1,SPORT 1 FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20684
+#EXTINF:-1,Sport 1 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/7190
+#EXTINF:-1,Sport 1+ HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20856
+#EXTINF:-1,Sport Digital FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/22729
+#EXTINF:-1,Sport Digital HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20855
+#EXTINF:-1,DAZN 1 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/35588
+#EXTINF:-1,DAZN 1 Bar FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/22499
+#EXTINF:-1,DAZN 2 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/35589
+#EXTINF:-1,DAZN 2 Bar FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/22500
+#EXTINF:-1,MotorVision HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/35619
+#EXTINF:-1,Auto Moto Sport FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/20853
+#EXTINF:-1,Eurosport 1 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/7189
+#EXTINF:-1,Eurosport 2 HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/7490
+#EXTINF:-1,Eurosport 2 Xtra HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/7702
+#EXTINF:-1,Eurosport 2 Xtra FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/35942
+#EXTINF:-1, Sport Austria SD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/35706
+#EXTINF:-1, Sport Austria HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/7717
+#EXTINF:-1, Sport Austria FHD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/35715
+#EXTINF:-1, Sport News HD (DE)
+http://iptv.iptivihd.com:8000/Sabin/Sabin/1028
