@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1,CARTOON NETWORK
+https://azuls.azureedge.net/hls1/cartoon.m3u8
+#EXTINF:-1,NICK
+https://azuls.azureedge.net/hls1/nick.m3u8
+#EXTINF:-1,DISNEY
+https://azuls.azureedge.net/hls1/disney.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+https://azuls.azureedge.net/hls1/disneyjunior.m3u8
+#EXTINF:-1,FOX
+https://azuls.azureedge.net/hls1/fox.m3u8
+#EXTINF:-1,FOX PREMIUM
+https://azuls.azureedge.net/hls1/foxpremium1.m3u8
+#EXTINF:-1,TNT
+https://azuls.azureedge.net/hls1/tnt.m3u8
+#EXTINF:-1,TNT SERIES
+https://azuls.azureedge.net/hls1/tntseries.m3u8
+#EXTINF:-1,MEGAPIC
+https://azuls.azureedge.net/hls1/megapix.m3u8
+#EXTINF:-1,SPACETOON
+https://azuls.azureedge.net/hls1/space.m3u8
+#EXTINF:-1,TELECINEACTION
+https://azuls.azureedge.net/hls1/telecineaction.m3u8
+#EXTINF:-1,TELECINEFUN
+https://azuls.azureedge.net/hls1/telecinefun.m3u8
+#EXTINF:-1,TELECINEPIOCA
+https://azuls.azureedge.net/hls1/telecinepipoca.m3u8
+#EXTINF:-1,TELECINEPREMIUM
+https://azuls.azureedge.net/hls1/telecinepremium.m3u8?w
+#EXTINF:-1,TELECINETOUCH
+https://azuls.azureedge.net/hls1/telecinetouch.m3u8
+#EXTINF:-1,AMC
+https://azuls.azureedge.net/hls1/amc.m3u8
+#EXTINF:-1,HBO
+https://azuls.azureedge.net/hls1/hbo.m3u8
+#EXTINF:-1,HB02
+https://azuls.azureedge.net/hls1/hbo2.m3u8?wms
+#EXTINF:-1,HBO+
+https://azuls.azureedge.net/hls1/hboplus.m3u8
+#EXTINF:-1,HBO FAMILY
+https://azuls.azureedge.net/hls1/hbofamily.m3u8
+#EXTINF:-1,HBO SIGNATURE
+https://azuls.azureedge.net/hls1/hbosignature.m3u8
+#EXTINF:-1,UNIVERSAL
+https://azuls.azureedge.net/hls1/universal.m3u8
+#EXTINF:-1,ST UNIVERSAL
+https://azuls.azureedge.net/hls1/studiouniversal.m3u8
+#EXTINF:-1,WARNERTV
+https://azuls.azureedge.net/hls1/warner.m3u8
+#EXTINF:-1,CINEMAX
+https://azuls.azureedge.net/hls1/cinemax.m3u8
+#EXTINF:-1,FX
+https://azuls.azureedge.net/hls1/fx.m3u8
+#EXTINF:-1,A!E
+https://azuls.azureedge.net/hls1/aie.m3u8
+#EXTINF:-1,SONY
+https://azuls.azureedge.net/hls1/sony.m3u8
+#EXTINF:-1,AXN
+https://azuls.azureedge.net/hls1/axn.m3u8
+#EXTINF:-1,PARAMOUNT
+https://azuls.azureedge.net/hls1/paramount.m3u8
+#EXTINF:-1,MTV
+https://azuls.azureedge.net/hls1/mtv.m3u8
+#EXTINF:-1,MULTISHOW
+https://azuls.azureedge.net/hls1/multishow.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+https://azuls.azureedge.net/hls1/discoverykids.m3u8
+#EXTINF:-1,DISNEY XD
+https://azuls.azureedge.net/hls1/disneyxd.m3u8
+#EXTINF:-1,BOOMERANG
+https://azuls.azureedge.net/hls1/boomerang.m3u8
