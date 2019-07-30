@@ -1,6 +1,343 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/Discovery_2016.svg/800px-Discovery_2016.svg.png" group-title="USA",Discovery Channel*
-http://80.80.160.168/live/8/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a6/Discovery_Science_2nd_variant.png" group-title="USA",Discovery Science*
-http://80.80.160.168/live/9/live.m3u8
+#EXTINF:-1,DISNEY HD EAST
+http://ok3.se:8000/Pinks/Pinks/73
+#EXTINF:-1,DISNEY XD HD
+http://ok3.se:8000/Pinks/Pinks/72
+#EXTINF:-1,FAMILY HD
+http://ok3.se:8000/Pinks/Pinks/68
+#EXTINF:-1,MUCH MUSIC HD
+http://ok3.se:8000/Pinks/Pinks/126
+#EXTINF:-1,NICKELODEON HD
+http://ok3.se:8000/Pinks/Pinks/39
+#EXTINF:-1,TREEHOUSE HD
+http://ok3.se:8000/Pinks/Pinks/18
+#EXTINF:-1,TELETOON HD
+http://ok3.se:8000/Pinks/Pinks/4674
+#EXTINF:-1,VH1 HD
+http://ok3.se:8000/Pinks/Pinks/12
+#EXTINF:-1,ADDIK (FR)
+http://ok3.se:8000/Pinks/Pinks/630
+#EXTINF:-1,ARTV (FR)
+http://ok3.se:8000/Pinks/Pinks/639
+#EXTINF:-1,AZTECA
+http://ok3.se:8000/Pinks/Pinks/589
+#EXTINF:-1, TES HD
+http://ok3.se:8000/Pinks/Pinks/590
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+http://ok3.se:8000/Pinks/Pinks/591
+#EXTINF:-1,CARACOL INT
+http://ok3.se:8000/Pinks/Pinks/592
+#EXTINF:-1,CBC (MTL) (FR)
+http://ok3.se:8000/Pinks/Pinks/640
+#EXTINF:-1,CENTRO AMERICA TV
+http://ok3.se:8000/Pinks/Pinks/593
+#EXTINF:-1,CINE SONY (ES)
+http://ok3.se:8000/Pinks/Pinks/594
+#EXTINF:-1,CINEMAX HD (ES)
+http://ok3.se:8000/Pinks/Pinks/595
+#EXTINF:-1,CNN ES
+http://ok3.se:8000/Pinks/Pinks/596
+#EXTINF:-1,CTV (MTL)
+http://ok3.se:8000/Pinks/Pinks/644
+#EXTINF:-1,DISCOVERY HD ES
+http://ok3.se:8000/Pinks/Pinks/597
+#EXTINF:-1,EC TV
+http://ok3.se:8000/Pinks/Pinks/598
+#EXTINF:-1,ECUA TV
+http://ok3.se:8000/Pinks/Pinks/599
+#EXTINF:-1,FOX TES HD ES
+http://ok3.se:8000/Pinks/Pinks/587
+#EXTINF:-1,GLOBAL HD (MTL)
+http://ok3.se:8000/Pinks/Pinks/645
+#EXTINF:-1,HBO EAST (ES)
+http://ok3.se:8000/Pinks/Pinks/601
+#EXTINF:-1,HISTORIA (FR)
+http://ok3.se:8000/Pinks/Pinks/632
+#EXTINF:-1,HISTORY ES
+http://ok3.se:8000/Pinks/Pinks/602
+#EXTINF:-1,MEGA HD
+http://ok3.se:8000/Pinks/Pinks/588
+#EXTINF:-1,MUSIQUE (FR)
+http://ok3.se:8000/Pinks/Pinks/641
+#EXTINF:-1,NBC UNIVERSO HD
+http://ok3.se:8000/Pinks/Pinks/603
+#EXTINF:-1,NUESTRATELE NOTICIAS 24
+http://ok3.se:8000/Pinks/Pinks/604
+#EXTINF:-1,PASIONES
+http://ok3.se:8000/Pinks/Pinks/605
+#EXTINF:-1,PELICULAS
+http://ok3.se:8000/Pinks/Pinks/606
+#EXTINF:-1,PELICULAS CLASSIC
+http://ok3.se:8000/Pinks/Pinks/607
+#EXTINF:-1,PERU MAGICO
+http://ok3.se:8000/Pinks/Pinks/608
+#EXTINF:-1,PLAYBOY TV HD
+http://ok3.se:8000/Pinks/Pinks/33
+#EXTINF:-1,PRISE2 (FR)
+http://ok3.se:8000/Pinks/Pinks/629
+#EXTINF:-1,RCN INT
+http://ok3.se:8000/Pinks/Pinks/609
+#EXTINF:-1,RDI (FR)
+http://ok3.se:8000/Pinks/Pinks/646
+#EXTINF:-1,RDS (FR)
+http://ok3.se:8000/Pinks/Pinks/638
+#EXTINF:-1,RDS 2 (FR)
+http://ok3.se:8000/Pinks/Pinks/637
+#EXTINF:-1,SERIES (FR)
+http://ok3.se:8000/Pinks/Pinks/633
+#EXTINF:-1,SRC (FR)
+http://ok3.se:8000/Pinks/Pinks/643
+#EXTINF:-1,SUPER ECRAN 1 (FR)
+http://ok3.se:8000/Pinks/Pinks/628
+#EXTINF:-1,SUPER ECRAN 2 (FR)
+http://ok3.se:8000/Pinks/Pinks/627
+#EXTINF:-1,SUPER ECRAN 3 (FR)
+http://ok3.se:8000/Pinks/Pinks/626
+#EXTINF:-1,SUR PERU
+http://ok3.se:8000/Pinks/Pinks/610
+#EXTINF:-1,TELE QUEBCEC (FR)
+http://ok3.se:8000/Pinks/Pinks/642
+#EXTINF:-1,TELEMUNDO WEST
+http://ok3.se:8000/Pinks/Pinks/613
+#EXTINF:-1,TELEMUNDO EAST
+http://ok3.se:8000/Pinks/Pinks/614
+#EXTINF:-1,TLNOVELAS HD
+http://ok3.se:8000/Pinks/Pinks/616
+#EXTINF:-1,TV CHILE
+http://ok3.se:8000/Pinks/Pinks/617
+#EXTINF:-1,TV ESPANA
+http://ok3.se:8000/Pinks/Pinks/618
+#EXTINF:-1,RCN (COLOMBIA)
+http://ok3.se:8000/Pinks/Pinks/21767
+#EXTINF:-1,TV VENEZUELA
+http://ok3.se:8000/Pinks/Pinks/619
+#EXTINF:-1,TV5 (FR)
+http://ok3.se:8000/Pinks/Pinks/625
+#EXTINF:-1,TVA (FR)
+http://ok3.se:8000/Pinks/Pinks/647
+#EXTINF:-1,TVA 1 (FR)
+http://ok3.se:8000/Pinks/Pinks/636
+#EXTINF:-1,TVA 2 (FR)
+http://ok3.se:8000/Pinks/Pinks/635
+#EXTINF:-1,TYC SPORTS HD (ES)
+http://ok3.se:8000/Pinks/Pinks/21768
+#EXTINF:-1,TYC SPORTS (ARGENTINA)
+http://ok3.se:8000/Pinks/Pinks/620
+#EXTINF:-1,UNIMAS HD
+http://ok3.se:8000/Pinks/Pinks/621
+#EXTINF:-1,UNIVISION TES
+http://ok3.se:8000/Pinks/Pinks/622
+#EXTINF:-1,UNIVISION EAST HD
+http://ok3.se:8000/Pinks/Pinks/623
+#EXTINF:-1,UNIVISION WEST (LA)
+http://ok3.se:8000/Pinks/Pinks/624
+#EXTINF:-1,VRAK (FR)
+http://ok3.se:8000/Pinks/Pinks/634
+#EXTINF:-1,YOOPA (FR)
+http://ok3.se:8000/Pinks/Pinks/648
+#EXTINF:-1,ZTELE (FR)
+http://ok3.se:8000/Pinks/Pinks/631
+#EXTINF:-1,YTV HD (NA)
+http://ok3.se:8000/Pinks/Pinks/4
+#EXTINF:-1,CBC HD EAST
+http://ok3.se:8000/Pinks/Pinks/710
+#EXTINF:-1,CBC (FR)
+http://ok3.se:8000/Pinks/Pinks/714
+#EXTINF:-1,CCTV NEWS
+http://ok3.se:8000/Pinks/Pinks/658
+#EXTINF:-1,CHCH HD
+http://ok3.se:8000/Pinks/Pinks/713
+#EXTINF:-1,CITY TV HD EAST
+http://ok3.se:8000/Pinks/Pinks/711
+#EXTINF:-1,CP24 HD
+http://ok3.se:8000/Pinks/Pinks/706
+#EXTINF:-1,CTV HD EAST
+http://ok3.se:8000/Pinks/Pinks/712
+#EXTINF:-1,FOX BUSINESS NETWORK
+http://ok3.se:8000/Pinks/Pinks/673
+#EXTINF:-1,GLOBAL HD EAST
+http://ok3.se:8000/Pinks/Pinks/707
+#EXTINF:-1,MEDIASET
+http://ok3.se:8000/Pinks/Pinks/650
+#EXTINF:-1,NAT GEO MUNDO
+http://ok3.se:8000/Pinks/Pinks/675
+#EXTINF:-1,OMNI 1 HD
+http://ok3.se:8000/Pinks/Pinks/708
+#EXTINF:-1,OMNI 2 HD
+http://ok3.se:8000/Pinks/Pinks/709
+#EXTINF:-1,TVO HD
+http://ok3.se:8000/Pinks/Pinks/705
+#EXTINF:-1,VISION HD
+http://ok3.se:8000/Pinks/Pinks/715
+#EXTINF:-1,GLOBO HD (NA)
+http://ok3.se:8000/Pinks/Pinks/731
+#EXTINF:-1,PFC HD (NA)
+http://ok3.se:8000/Pinks/Pinks/729
+#EXTINF:-1,RECORD (NA)
+http://ok3.se:8000/Pinks/Pinks/730
+#EXTINF:-1,GLOBO (BR)
+http://ok3.se:8000/Pinks/Pinks/983
+#EXTINF:-1,RECORD (BR)
+http://ok3.se:8000/Pinks/Pinks/984
+#EXTINF:-1,BAND NEWS (NA)
+http://ok3.se:8000/Pinks/Pinks/734
+#EXTINF:-1,RTP 1
+http://ok3.se:8000/Pinks/Pinks/726
+#EXTINF:-1,RTP 2
+http://ok3.se:8000/Pinks/Pinks/725
+#EXTINF:-1,RTP 3
+http://ok3.se:8000/Pinks/Pinks/724
+#EXTINF:-1,RTP MEMORIA
+http://ok3.se:8000/Pinks/Pinks/721
+#EXTINF:-1,RTPI (NA)
+http://ok3.se:8000/Pinks/Pinks/735
+#EXTINF:-1,SIC (NA)
+http://ok3.se:8000/Pinks/Pinks/733
+#EXTINF:-1,SIC NOTICIAS
+http://ok3.se:8000/Pinks/Pinks/723
+#EXTINF:-1,TVI (NA)
+http://ok3.se:8000/Pinks/Pinks/732
+#EXTINF:-1,TVI FICCAO
+http://ok3.se:8000/Pinks/Pinks/722
+#EXTINF:-1,TVI REALITY
+http://ok3.se:8000/Pinks/Pinks/727
+#EXTINF:-1,A&E (PT)
+http://ok3.se:8000/Pinks/Pinks/963
+#EXTINF:-1,ABOLA TV (PT)
+http://ok3.se:8000/Pinks/Pinks/932
+#EXTINF:-1,AFRO MUSIC (PT)
+http://ok3.se:8000/Pinks/Pinks/973
+#EXTINF:-1,AMC (PT)
+http://ok3.se:8000/Pinks/Pinks/991
+#EXTINF:-1,AXN (PT)
+http://ok3.se:8000/Pinks/Pinks/950
+#EXTINF:-1,AXN WHITE (PT)
+http://ok3.se:8000/Pinks/Pinks/951
+#EXTINF:-1,CACA EPESCA (PT)
+http://ok3.se:8000/Pinks/Pinks/934
+#EXTINF:-1,CANAL PANDA HD (PT)
+http://ok3.se:8000/Pinks/Pinks/990
+#EXTINF:-1,CANAL Q (PT)
+http://ok3.se:8000/Pinks/Pinks/923
+#EXTINF:-1,CARTOON NETWORK (PT)
+http://ok3.se:8000/Pinks/Pinks/978
+#EXTINF:-1,CBS REALITY (PT)
+http://ok3.se:8000/Pinks/Pinks/962
+#EXTINF:-1,CINEMUNDO (PT)
+http://ok3.se:8000/Pinks/Pinks/942
+#EXTINF:-1,CM TV (PT)
+http://ok3.se:8000/Pinks/Pinks/924
+#EXTINF:-1,DISCOVERY (PT)
+http://ok3.se:8000/Pinks/Pinks/955
+#EXTINF:-1,DISCOVERY SHOWCASE (PT)
+http://ok3.se:8000/Pinks/Pinks/958
+#EXTINF:-1,DISNEY (PT)
+http://ok3.se:8000/Pinks/Pinks/975
+#EXTINF:-1,DISNEY JR (PT)
+http://ok3.se:8000/Pinks/Pinks/976
+#EXTINF:-1,E! (PT)
+http://ok3.se:8000/Pinks/Pinks/954
+#EXTINF:-1,EURO NEWS (PT)
+http://ok3.se:8000/Pinks/Pinks/926
+#EXTINF:-1,FOX COMEDY (PT)
+http://ok3.se:8000/Pinks/Pinks/949
+#EXTINF:-1,FOX CRIME (PT)
+http://ok3.se:8000/Pinks/Pinks/947
+#EXTINF:-1,FOX HD (PT)
+http://ok3.se:8000/Pinks/Pinks/945
+#EXTINF:-1,FOX LIFE HD (PT)
+http://ok3.se:8000/Pinks/Pinks/946
+#EXTINF:-1,FOX MOVIES (PT)
+http://ok3.se:8000/Pinks/Pinks/948
+#EXTINF:-1,FUEL TV (PT)
+http://ok3.se:8000/Pinks/Pinks/929
+#EXTINF:-1,GALICIA TV (PT)
+http://ok3.se:8000/Pinks/Pinks/980
+#EXTINF:-1,HISTORIA (PT)
+http://ok3.se:8000/Pinks/Pinks/964
+#EXTINF:-1,HOLLYWOOD (PT)
+http://ok3.se:8000/Pinks/Pinks/941
+#EXTINF:-1,JIM JAM (PT)
+http://ok3.se:8000/Pinks/Pinks/974
+#EXTINF:-1,MCM POP (PT)
+http://ok3.se:8000/Pinks/Pinks/972
+#EXTINF:-1,MOTOR VISION HD (PT)
+http://ok3.se:8000/Pinks/Pinks/933
+#EXTINF:-1,MTV (PT)
+http://ok3.se:8000/Pinks/Pinks/971
+#EXTINF:-1,NAT GEO (PT)
+http://ok3.se:8000/Pinks/Pinks/956
+#EXTINF:-1,Nat GEO WILD (PT)
+http://ok3.se:8000/Pinks/Pinks/957
+#EXTINF:-1,NICKELODEON (PT)
+http://ok3.se:8000/Pinks/Pinks/977
+#EXTINF:-1,ODISSEIA (PT)
+http://ok3.se:8000/Pinks/Pinks/965
+#EXTINF:-1,PFC SPORTS HD (PT)
+http://ok3.se:8000/Pinks/Pinks/1000
+#EXTINF:-1,PORTO CANAL (PT)
+http://ok3.se:8000/Pinks/Pinks/922
+#EXTINF:-1,REAL MADRID (PT)
+http://ok3.se:8000/Pinks/Pinks/992
+#EXTINF:-1,RTP ACORES 24 (PT)
+http://ok3.se:8000/Pinks/Pinks/1002
+#EXTINF:-1,RTP MADEIRA (PT)
+http://ok3.se:8000/Pinks/Pinks/1001
+#EXTINF:-1,SIC CARAS (PT)
+http://ok3.se:8000/Pinks/Pinks/996
+#EXTINF:-1,SIC HD (PT)
+http://ok3.se:8000/Pinks/Pinks/997
+#EXTINF:-1,SIC KIDS (PT)
+http://ok3.se:8000/Pinks/Pinks/993
+#EXTINF:-1,SIC MULHER (PT)
+http://ok3.se:8000/Pinks/Pinks/995
+#EXTINF:-1,SIC RADICAL (PT)
+http://ok3.se:8000/Pinks/Pinks/994
+#EXTINF:-1,SPORTING TV (PT)
+http://ok3.se:8000/Pinks/Pinks/985
+#EXTINF:-1,SYFY (PT)
+http://ok3.se:8000/Pinks/Pinks/953
+#EXTINF:-1,TLC (PT)
+http://ok3.se:8000/Pinks/Pinks/959
+#EXTINF:-1,TOROS TV (PT)
+http://ok3.se:8000/Pinks/Pinks/935
+#EXTINF:-1,TRACE URBAN TV (PT)
+http://ok3.se:8000/Pinks/Pinks/970
+#EXTINF:-1,TRAVEL CHANNEL (PT)
+http://ok3.se:8000/Pinks/Pinks/961
+#EXTINF:-1,TV SERIES (PT)
+http://ok3.se:8000/Pinks/Pinks/940
+#EXTINF:-1,TVC1 (PT)
+http://ok3.se:8000/Pinks/Pinks/936
+#EXTINF:-1,TVC2 (PT)
+http://ok3.se:8000/Pinks/Pinks/937
+#EXTINF:-1,TVC3 (PT)
+http://ok3.se:8000/Pinks/Pinks/938
+#EXTINF:-1,TVC4 (PT)
+http://ok3.se:8000/Pinks/Pinks/939
+#EXTINF:-1,TVE INT (PT)
+http://ok3.se:8000/Pinks/Pinks/981
+#EXTINF:-1,TVI (PT)
+http://ok3.se:8000/Pinks/Pinks/999
+#EXTINF:-1,TVI 24 (PT)
+http://ok3.se:8000/Pinks/Pinks/998
+#EXTINF:-1,VH1 (PT)
+http://ok3.se:8000/Pinks/Pinks/968
+#EXTINF:-1,VH1 ClASSIC (PT)
+http://ok3.se:8000/Pinks/Pinks/969
+#EXTINF:-1,ACTION 24 (GR)
+http://ok3.se:8000/Pinks/Pinks/894
+#EXTINF:-1,DISCOVERY (GR)
+http://ok3.se:8000/Pinks/Pinks/858
+#EXTINF:-1,DISNEY CHANNEL (GR)
+http://ok3.se:8000/Pinks/Pinks/861
+#EXTINF:-1,DISNEY XD (GR)
+http://ok3.se:8000/Pinks/Pinks/859
+#EXTINF:-1,E! (GR)
+http://ok3.se:8000/Pinks/Pinks/849
+#EXTINF:-1,ERT 2 (GR)
+http://ok3.se:8000/Pinks/Pinks/901
+#EXTINF:-1,ERT 3 (GR)
+http://ok3.se:8000/Pinks/Pinks/902
+#EXTINF:-1,FOX (GR)
+http://ok3.se:8000/Pinks/Pinks/851
