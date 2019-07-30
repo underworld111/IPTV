@@ -1,69 +1,154 @@
+EXTM3U 
+#EXTINF?:-1, SPACE HD latino 
+
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?
+
+#EXTINF:-1, TNT HD latino 
+
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?
+
+#EXTINF:-1, TLC HD latino 
+
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
+
+#EXTINF:-1, DISCOVERY HD 
+
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+
+#EXTINF:-1, DE PELICULA HD latino 
+
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?
+
+#EXTINF:-1, DISNEY XD latino 
+
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
+
+#EXTINF:-1, NICK HD latino 
+
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
+
+#EXTINF:-1,FILM ZONE HD (US) 
+
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+
+#EXTINF:-1,Fox 1 HD(US) 
+
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+
+#EXTINF:-1,FOX MOVIES HD (US) 
+
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+
+#EXTINF:-1, WARNER HD latino 
+
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
+
+#EXTINF:-1, UNIVERSAL HD 
+
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
+
+#EXTINF:-1, FX HD eng 
+
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?
+
+#EXTINF:-1,Fox 1 HD(US) 
+
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+
+#EXTINF:-1, NICK HD latino 
+
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
+
+#EXTINF:-1,AXN HD. eng 
+
+http://113.160.49.34/l…/origin03/axnhd.isml/axnhd-2096k.m3u8
+
+#EXTINF:-1, AXN HD latino 
+
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
+
+#EXTINF:0,RT Documentary HD eng 
+
+http://odna.octoshape.net/f3f5m2v4/…/ch5_720p/chunklist.m3u8
+
+#EXTINF:-1, TLC HD latino 
+
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
+
+#A:-1, FILM ZONE HD 
+
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+
+#A:-1, SONY HD latino 
+
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8
+
+#A:-1,WARNER HD 
+
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
+
+#A:-1, DISCOVERY HD 
+
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+
+#EXTINF:-1,FX HD 
+
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?
+
+#A:0,UNIVERSAL HD 
+
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
+
 #EXTM3U
-#EXTINF:-1,FILMNOW hu
-http://86.122.108.183:7300/digifilmhu
-#EXTINF:-1,hbo3hu
-http://86.122.108.183:7300/hbo3hu
-#EXTINF:-1,hbohdhu
-http://86.122.108.183:7300/hbohdhu
-#EXTINF:-1,FilmBox Plus
-http://86.122.108.183:7300/filmboxplus
-#EXTINF:-1,DoQ
-http://86.122.108.183:7300/doq
-#EXTINF:-1,Auto Moto
-http://86.122.108.183:7300/automotor
-#EXTINF:-1,DocuBox
-http://86.122.108.183:7300/docubox
-#EXTINF:-1,FightBox
-http://86.122.108.183:7300/fightbox
-#EXTINF:-1,FilmBox Extra HD
-http://86.122.108.183:7300/filmboxextrahd
-#EXTINF:-1,Discovery Science RO
-http://86.122.108.183:7300/science
-#EXTINF:-1,Fine Living RO
-http://86.122.108.183:7300/fineliving
-#EXTINF:-1,tv2
-http://86.122.108.183:7300/tv2
-#EXTINF:-1,antena1
-http://86.122.108.183:7300/antena1
-#EXTINF:-1,atv
-http://86.122.108.183:7300/atv
-#EXTINF:-1,extreme
-http://86.122.108.183:7300/extremesports
-#EXTINF:-1,hir
-http://86.122.108.183:7300/hir
-#EXTINF:-1,AMC HU
-http://86.122.108.183:7300/amchu
-#EXTINF:-1,RTL2
-http://86.122.108.183:7300/rtl2hu
-#EXTINF:-1,RTL GOLD
-http://86.122.108.183:7300/rtlgoldhu
-#EXTINF:-1,AMC RO
-http://86.122.108.183:7300/amcro
-#EXTINF:-1,RTL Klub HD
-http://86.122.108.183:7300/rtlklubhd
-#EXTINF:-1,Film Cafe
-http://86.122.108.183:7300/ct2
-#EXTINF:-1,CT Sport
-http://86.122.108.183:7300/ctsport
-#EXTINF:-1,Cartoon Network hu_cz ??
-http://86.122.108.183:7300/cnhu
-#EXTINF:-1,Look Plus HD
-http://86.122.108.183:7300/lookplushd
-#EXTINF:-1,LookSport HD
-http://86.122.108.183:7300/looksporthd
-#EXTINF:-1,HBO
-http://86.122.108.183:7300/hborox
-#EXTINF:-1,Happy Channel
-http://86.122.108.183:7300/prox
-#EXTINF:-1,Pro Cinema
-http://86.122.108.183:7300/procinemarox
-#EXTINF:-1,Travel Mix HD
-http://86.122.108.183:7733/travelmixhd
-#EXTINF:-1,HBO HU
-http://86.122.108.183:7300/hbo1hu
-#EXTINF:-1,Disney Channel HU
-http://86.122.108.183:7300/disneychhu
-#EXTINF:-1,Cool TV
-http://86.122.108.183:7300/cooltv
-#EXTINF:-1,Markiza INTERNATIONAL
-http://86.122.108.183:7300/markizainthu
+
+#EXTINF:0,ARD(DAS ERSTE)
+
+http://94.198.255.211:5555/pl.m3u8?channel=4
+
+#EXTINF:0,ZDF
+
+http://94.198.255.211:5555/pl.m3u8?channel=5
+
+#EXTINF:0,ZDF INFO
+
+http://94.198.255.211:5555/pl.m3u8?channel=66
+
+#EXTINF:0,ZDF KULTUR
+
+http://94.198.255.211:5555/pl.m3u8?channel=67
+
+#EXTINF:0,ZDF NEO
+
+http://94.198.255.211:5555/pl.m3u8?channel=68
+
+#EXTINF:0,WDR
+
+http://94.198.255.211:5555/pl.m3u8?channel=65
+
+#EXTINF:0,RTL
+
+http://94.198.255.211:5555/pl.m3u8?channel=43
+
+#EXTINF:0,RTL II
+
+http://94.198.255.211:5555/pl.m3u8?channel=45
+
+#EXTINF:0,SUPER RTL
+
+http://94.198.255.211:5555/pl.m3u8?channel=55
+
+#EXTINF:0,SAT 1
+
+http://94.198.255.211:5555/pl.m3u8?channel=49
+
+#EXTINF:0,VOX
+
+http://94.198.255.211:5555/pl.m3u8?channel=63
+
+#EXTINF:0,PRO 7
+
+http://94.198.255.211:5555/pl.m3u8?channel=39
+
+#EXTINF:0,PRO 7 MAXX
+
+http://94.198.255.211:5555/pl.m3u8?channel=41
