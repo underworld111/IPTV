@@ -1,6 +1,4 @@
-﻿#EXTM3U
-
-#EXTINF:0,----- Uk Entertainment -----
+#EXTM3U
 http://feed1.vgy7890.com/live/deredin/listing/14249.ts
 #EXTINF:0,UK - ITV 1 HD
 http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/1480
@@ -237,9 +235,6 @@ http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/36492
 #EXTINF:0,UK - Family Guy 2
 http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/36493
 #EXTINF:0,UK - Family Guy 3
-http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/36494
-
-#EXTINF:0,----- SKY UK SPORTS -----
 http://feed1.vgy7890.com/live/deredin/listing/14249.ts
 #EXTINF:0,UK - Sky Sports News HQ
 http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/2561
@@ -396,9 +391,6 @@ http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/5426
 #EXTINF:0,UK - Front Runner
 http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/19838
 #EXTINF:0,UK - Free Sports
-http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/18663
-
-#EXTINF:0,----- Sky Uk Movies -----
 http://feed1.vgy7890.com/live/deredin/listing/14249.ts
 #EXTINF:0,UK - Sky Cinema Premiere FHD
 http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/17434
@@ -483,9 +475,6 @@ http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/4195
 #EXTINF:0,UK - Movie4Men
 http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/4185
 #EXTINF:0,UK - TCM
-http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/4197
-
-#EXTINF:0,----- Uk Documentary -----
 http://feed1.vgy7890.com/live/deredin/listing/14249.ts
 #EXTINF:0,UK - National Geographic
 http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/434
@@ -538,9 +527,6 @@ http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/4184
 #EXTINF:0,UK - H2 UK (B)
 http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/7443
 #EXTINF:0,UK - Viceland
-http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/19834
-
-#EXTINF:0,----- Uk Children -----
 http://feed1.vgy7890.com/live/deredin/listing/14249.ts
 #EXTINF:0,UK - Disney Movies FHD
 http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/17431
@@ -703,9 +689,6 @@ http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/24240
 #EXTINF:0,UK - Chart Show TV
 http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/24825
 #EXTINF:0,UK - Capital TV
-http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/24826
-
-#EXTINF:0,------- NEWS -------
 http://feed1.vgy7890.com/live/deredin/listing/14249.ts
 #EXTINF:0,UK - Sky News HD
 http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/5405
@@ -738,9 +721,6 @@ http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/4250
 #EXTINF:0,UK - Bloomberg (THAI)
 http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/18667
 #EXTINF:0,UK - RT HD
-http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/5402
-
-#EXTINF:0,XXX - HUSTLER TV
 http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/1555
 #EXTINF:0,XXX - SCT
 http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/1198
@@ -837,9 +817,6 @@ http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/57737
 #EXTINF:0,XXX - Hot Club 29 HD
 http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/57736
 #EXTINF:0,XXX - Hot Club 30 HD
-http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/57735
-
-#EXTINF:0,------ USA TV ------
 http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/6374
 #EXTINF:0,USA - SHOWTIME HD
 http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/6346
@@ -986,5 +963,4 @@ http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/50292
 #EXTINF:0,AU - TEN SPORTS
 http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/50291
 #EXTINF:0,AU - YOUR MONEY HD
-http://bot.ui7890.com:80/0HsNYJYkj0/pXpxmMRPAO/50290
 
