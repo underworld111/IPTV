@@ -1,3 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/gb/DiscoveryChannel.uk.png" group-title="",Discovery Česká
-http://83.167.253.110:5000/live/discovery/playlist.m3u8
