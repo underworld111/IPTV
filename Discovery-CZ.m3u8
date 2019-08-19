@@ -1,14 +1,13 @@
 #EXTM3U
-#EXT-X-VERSION:03
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:2345953
-#EXTINF:9,
-20190807_034840.ts
-#EXTINF:9,
-20190807_034850.ts
-#EXTINF:10,
-20190807_034900.ts
-#EXTINF:9,
-20190807_034910.ts
-#EXTINF:10,
-20190807_034920.ts
+#EXTINF:-1,MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1,JimJam
+http://83.167.253.110:5000/live/jimjam/playlist.m3u8
+#EXTINF:-1,Prima
+http://83.167.253.110:5000/live/prima_hd/playlist.m3u8
+#EXTINF:-1,Joj
+http://83.167.253.110:5000/live/joj_family_hd/playlist.m3u8
+#EXTINF:-1,Discovery
+http://83.167.253.110:5000/live/joj_family_hd/playlist.m3u8
+#EXTINF:-1,Animal Planet
+http://80.80.160.168/live/1/live.m3u8
